@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dbQuanLyQuanCafeDataSet" targetNamespace="http://tempuri.org/dbQuanLyQuanCafeDataSet.xsd" xmlns:mstns="http://tempuri.org/dbQuanLyQuanCafeDataSet.xsd" xmlns="http://tempuri.org/dbQuanLyQuanCafeDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="dbQuanLyQuanCafeConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dbQuanLyQuanCafeConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QL_QuanCaPhe.Properties.Settings.GlobalReference.Default.dbQuanLyQuanCafeConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RPHOADONTableAdapter" GeneratorDataComponentClassName="RPHOADONTableAdapter" Name="RPHOADON" UserDataComponentName="RPHOADONTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbQuanLyQuanCafeConnectionString (Settings)" DbObjectName="dbQuanLyQuanCafe.dbo.RPHOADON" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MAHOADON, MABAN, TENBAN, TENKHACHHANG, HOTEN, TENMON, Size, GIA, SOLUONG, NGAYLAP, NGAYXUAT, TONGTIEN, THANHTOAN, MAGIAMGIA FROM dbo.RPHOADON</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAHOADON" DataSetColumn="MAHOADON" />
+              <Mapping SourceColumn="MABAN" DataSetColumn="MABAN" />
+              <Mapping SourceColumn="TENBAN" DataSetColumn="TENBAN" />
+              <Mapping SourceColumn="TENKHACHHANG" DataSetColumn="TENKHACHHANG" />
+              <Mapping SourceColumn="HOTEN" DataSetColumn="HOTEN" />
+              <Mapping SourceColumn="TENMON" DataSetColumn="TENMON" />
+              <Mapping SourceColumn="Size" DataSetColumn="Size" />
+              <Mapping SourceColumn="GIA" DataSetColumn="GIA" />
+              <Mapping SourceColumn="SOLUONG" DataSetColumn="SOLUONG" />
+              <Mapping SourceColumn="NGAYLAP" DataSetColumn="NGAYLAP" />
+              <Mapping SourceColumn="NGAYXUAT" DataSetColumn="NGAYXUAT" />
+              <Mapping SourceColumn="TONGTIEN" DataSetColumn="TONGTIEN" />
+              <Mapping SourceColumn="THANHTOAN" DataSetColumn="THANHTOAN" />
+              <Mapping SourceColumn="MAGIAMGIA" DataSetColumn="MAGIAMGIA" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dbQuanLyQuanCafeDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dbQuanLyQuanCafeDataSet" msprop:Generator_UserDSName="dbQuanLyQuanCafeDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RPHOADON" msprop:Generator_TableClassName="RPHOADONDataTable" msprop:Generator_TableVarName="tableRPHOADON" msprop:Generator_RowChangedName="RPHOADONRowChanged" msprop:Generator_TablePropName="RPHOADON" msprop:Generator_RowDeletingName="RPHOADONRowDeleting" msprop:Generator_RowChangingName="RPHOADONRowChanging" msprop:Generator_RowEvHandlerName="RPHOADONRowChangeEventHandler" msprop:Generator_RowDeletedName="RPHOADONRowDeleted" msprop:Generator_RowClassName="RPHOADONRow" msprop:Generator_UserTableName="RPHOADON" msprop:Generator_RowEvArgName="RPHOADONRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAHOADON" msprop:Generator_ColumnVarNameInTable="columnMAHOADON" msprop:Generator_ColumnPropNameInRow="MAHOADON" msprop:Generator_ColumnPropNameInTable="MAHOADONColumn" msprop:Generator_UserColumnName="MAHOADON">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MABAN" msprop:Generator_ColumnVarNameInTable="columnMABAN" msprop:Generator_ColumnPropNameInRow="MABAN" msprop:Generator_ColumnPropNameInTable="MABANColumn" msprop:Generator_UserColumnName="MABAN" type="xs:int" />
+              <xs:element name="TENBAN" msprop:Generator_ColumnVarNameInTable="columnTENBAN" msprop:Generator_ColumnPropNameInRow="TENBAN" msprop:Generator_ColumnPropNameInTable="TENBANColumn" msprop:Generator_UserColumnName="TENBAN" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENKHACHHANG" msprop:Generator_ColumnVarNameInTable="columnTENKHACHHANG" msprop:Generator_ColumnPropNameInRow="TENKHACHHANG" msprop:Generator_ColumnPropNameInTable="TENKHACHHANGColumn" msprop:Generator_UserColumnName="TENKHACHHANG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HOTEN" msprop:Generator_ColumnVarNameInTable="columnHOTEN" msprop:Generator_ColumnPropNameInRow="HOTEN" msprop:Generator_ColumnPropNameInTable="HOTENColumn" msprop:Generator_UserColumnName="HOTEN">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENMON" msprop:Generator_ColumnVarNameInTable="columnTENMON" msprop:Generator_ColumnPropNameInRow="TENMON" msprop:Generator_ColumnPropNameInTable="TENMONColumn" msprop:Generator_UserColumnName="TENMON" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Size" msprop:Generator_ColumnVarNameInTable="columnSize" msprop:Generator_ColumnPropNameInRow="Size" msprop:Generator_ColumnPropNameInTable="SizeColumn" msprop:Generator_UserColumnName="Size">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GIA" msprop:Generator_ColumnVarNameInTable="columnGIA" msprop:Generator_ColumnPropNameInRow="GIA" msprop:Generator_ColumnPropNameInTable="GIAColumn" msprop:Generator_UserColumnName="GIA" type="xs:double" minOccurs="0" />
+              <xs:element name="SOLUONG" msprop:Generator_ColumnVarNameInTable="columnSOLUONG" msprop:Generator_ColumnPropNameInRow="SOLUONG" msprop:Generator_ColumnPropNameInTable="SOLUONGColumn" msprop:Generator_UserColumnName="SOLUONG" type="xs:int" minOccurs="0" />
+              <xs:element name="NGAYLAP" msprop:Generator_ColumnVarNameInTable="columnNGAYLAP" msprop:Generator_ColumnPropNameInRow="NGAYLAP" msprop:Generator_ColumnPropNameInTable="NGAYLAPColumn" msprop:Generator_UserColumnName="NGAYLAP" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NGAYXUAT" msprop:Generator_ColumnVarNameInTable="columnNGAYXUAT" msprop:Generator_ColumnPropNameInRow="NGAYXUAT" msprop:Generator_ColumnPropNameInTable="NGAYXUATColumn" msprop:Generator_UserColumnName="NGAYXUAT" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TONGTIEN" msprop:Generator_ColumnVarNameInTable="columnTONGTIEN" msprop:Generator_ColumnPropNameInRow="TONGTIEN" msprop:Generator_ColumnPropNameInTable="TONGTIENColumn" msprop:Generator_UserColumnName="TONGTIEN" type="xs:double" minOccurs="0" />
+              <xs:element name="THANHTOAN" msprop:Generator_ColumnVarNameInTable="columnTHANHTOAN" msprop:Generator_ColumnPropNameInRow="THANHTOAN" msprop:Generator_ColumnPropNameInTable="THANHTOANColumn" msprop:Generator_UserColumnName="THANHTOAN" type="xs:double" minOccurs="0" />
+              <xs:element name="MAGIAMGIA" msprop:Generator_ColumnVarNameInTable="columnMAGIAMGIA" msprop:Generator_ColumnPropNameInRow="MAGIAMGIA" msprop:Generator_ColumnPropNameInTable="MAGIAMGIAColumn" msprop:Generator_UserColumnName="MAGIAMGIA" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RPPHIEUDAT" msprop:Generator_TableClassName="RPPHIEUDATDataTable" msprop:Generator_TableVarName="tableRPPHIEUDAT" msprop:Generator_TablePropName="RPPHIEUDAT" msprop:Generator_RowDeletingName="RPPHIEUDATRowDeleting" msprop:Generator_RowChangingName="RPPHIEUDATRowChanging" msprop:Generator_RowEvHandlerName="RPPHIEUDATRowChangeEventHandler" msprop:Generator_RowDeletedName="RPPHIEUDATRowDeleted" msprop:Generator_UserTableName="RPPHIEUDAT" msprop:Generator_RowChangedName="RPPHIEUDATRowChanged" msprop:Generator_RowEvArgName="RPPHIEUDATRowChangeEvent" msprop:Generator_RowClassName="RPPHIEUDATRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAPHIEUDAT" msprop:Generator_ColumnVarNameInTable="columnMAPHIEUDAT" msprop:Generator_ColumnPropNameInRow="MAPHIEUDAT" msprop:Generator_ColumnPropNameInTable="MAPHIEUDATColumn" msprop:Generator_UserColumnName="MAPHIEUDAT" type="xs:string" minOccurs="0" />
+              <xs:element name="NGAYLAP" msprop:Generator_ColumnVarNameInTable="columnNGAYLAP" msprop:Generator_ColumnPropNameInRow="NGAYLAP" msprop:Generator_ColumnPropNameInTable="NGAYLAPColumn" msprop:Generator_UserColumnName="NGAYLAP" type="xs:string" minOccurs="0" />
+              <xs:element name="TENNHACUNGCAP" msprop:Generator_ColumnVarNameInTable="columnTENNHACUNGCAP" msprop:Generator_ColumnPropNameInRow="TENNHACUNGCAP" msprop:Generator_ColumnPropNameInTable="TENNHACUNGCAPColumn" msprop:Generator_UserColumnName="TENNHACUNGCAP" type="xs:string" minOccurs="0" />
+              <xs:element name="DIACHI" msprop:Generator_ColumnVarNameInTable="columnDIACHI" msprop:Generator_ColumnPropNameInRow="DIACHI" msprop:Generator_ColumnPropNameInTable="DIACHIColumn" msprop:Generator_UserColumnName="DIACHI" type="xs:string" minOccurs="0" />
+              <xs:element name="SDT" msprop:Generator_ColumnVarNameInTable="columnSDT" msprop:Generator_ColumnPropNameInRow="SDT" msprop:Generator_ColumnPropNameInTable="SDTColumn" msprop:Generator_UserColumnName="SDT" type="xs:string" minOccurs="0" />
+              <xs:element name="TENNGUYENLIEU" msprop:Generator_ColumnVarNameInTable="columnTENNGUYENLIEU" msprop:Generator_ColumnPropNameInRow="TENNGUYENLIEU" msprop:Generator_ColumnPropNameInTable="TENNGUYENLIEUColumn" msprop:Generator_UserColumnName="TENNGUYENLIEU" type="xs:string" minOccurs="0" />
+              <xs:element name="DVT" msprop:Generator_ColumnVarNameInTable="columnDVT" msprop:Generator_ColumnPropNameInRow="DVT" msprop:Generator_ColumnPropNameInTable="DVTColumn" msprop:Generator_UserColumnName="DVT" type="xs:string" minOccurs="0" />
+              <xs:element name="SOLUONG" msprop:Generator_ColumnVarNameInTable="columnSOLUONG" msprop:Generator_ColumnPropNameInRow="SOLUONG" msprop:Generator_ColumnPropNameInTable="SOLUONGColumn" msprop:Generator_UserColumnName="SOLUONG" type="xs:string" minOccurs="0" />
+              <xs:element name="GIADAT" msprop:Generator_ColumnVarNameInTable="columnGIADAT" msprop:Generator_ColumnPropNameInRow="GIADAT" msprop:Generator_ColumnPropNameInTable="GIADATColumn" msprop:Generator_UserColumnName="GIADAT" type="xs:string" minOccurs="0" />
+              <xs:element name="TONGTIEN" msprop:Generator_ColumnVarNameInTable="columnTONGTIEN" msprop:Generator_ColumnPropNameInRow="TONGTIEN" msprop:Generator_ColumnPropNameInTable="TONGTIENColumn" msprop:Generator_UserColumnName="TONGTIEN" type="xs:string" minOccurs="0" />
+              <xs:element name="HOTEN" msprop:Generator_ColumnVarNameInTable="columnHOTEN" msprop:Generator_ColumnPropNameInRow="HOTEN" msprop:Generator_ColumnPropNameInTable="HOTENColumn" msprop:Generator_UserColumnName="HOTEN" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RPPHIEUNHAP" msprop:Generator_TableClassName="RPPHIEUNHAPDataTable" msprop:Generator_TableVarName="tableRPPHIEUNHAP" msprop:Generator_TablePropName="RPPHIEUNHAP" msprop:Generator_RowDeletingName="RPPHIEUNHAPRowDeleting" msprop:Generator_RowChangingName="RPPHIEUNHAPRowChanging" msprop:Generator_RowEvHandlerName="RPPHIEUNHAPRowChangeEventHandler" msprop:Generator_RowDeletedName="RPPHIEUNHAPRowDeleted" msprop:Generator_UserTableName="RPPHIEUNHAP" msprop:Generator_RowChangedName="RPPHIEUNHAPRowChanged" msprop:Generator_RowEvArgName="RPPHIEUNHAPRowChangeEvent" msprop:Generator_RowClassName="RPPHIEUNHAPRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAPHIEUDAT" msprop:Generator_ColumnVarNameInTable="columnMAPHIEUDAT" msprop:Generator_ColumnPropNameInRow="MAPHIEUDAT" msprop:Generator_ColumnPropNameInTable="MAPHIEUDATColumn" msprop:Generator_UserColumnName="MAPHIEUDAT" type="xs:string" minOccurs="0" />
+              <xs:element name="MAPHIEUNHAP" msprop:Generator_ColumnVarNameInTable="columnMAPHIEUNHAP" msprop:Generator_ColumnPropNameInRow="MAPHIEUNHAP" msprop:Generator_ColumnPropNameInTable="MAPHIEUNHAPColumn" msprop:Generator_UserColumnName="MAPHIEUNHAP" type="xs:string" minOccurs="0" />
+              <xs:element name="NGAYNHAP" msprop:Generator_ColumnVarNameInTable="columnNGAYNHAP" msprop:Generator_ColumnPropNameInRow="NGAYNHAP" msprop:Generator_ColumnPropNameInTable="NGAYNHAPColumn" msprop:Generator_UserColumnName="NGAYNHAP" type="xs:string" minOccurs="0" />
+              <xs:element name="TENNHACUNGCAP" msprop:Generator_ColumnVarNameInTable="columnTENNHACUNGCAP" msprop:Generator_ColumnPropNameInRow="TENNHACUNGCAP" msprop:Generator_ColumnPropNameInTable="TENNHACUNGCAPColumn" msprop:Generator_UserColumnName="TENNHACUNGCAP" type="xs:string" minOccurs="0" />
+              <xs:element name="DIACHI" msprop:Generator_ColumnVarNameInTable="columnDIACHI" msprop:Generator_ColumnPropNameInRow="DIACHI" msprop:Generator_ColumnPropNameInTable="DIACHIColumn" msprop:Generator_UserColumnName="DIACHI" type="xs:string" minOccurs="0" />
+              <xs:element name="SDT" msprop:Generator_ColumnVarNameInTable="columnSDT" msprop:Generator_ColumnPropNameInRow="SDT" msprop:Generator_ColumnPropNameInTable="SDTColumn" msprop:Generator_UserColumnName="SDT" type="xs:string" minOccurs="0" />
+              <xs:element name="TENNGUYENLIEU" msprop:Generator_ColumnVarNameInTable="columnTENNGUYENLIEU" msprop:Generator_ColumnPropNameInRow="TENNGUYENLIEU" msprop:Generator_ColumnPropNameInTable="TENNGUYENLIEUColumn" msprop:Generator_UserColumnName="TENNGUYENLIEU" type="xs:string" minOccurs="0" />
+              <xs:element name="DVT" msprop:Generator_ColumnVarNameInTable="columnDVT" msprop:Generator_ColumnPropNameInRow="DVT" msprop:Generator_ColumnPropNameInTable="DVTColumn" msprop:Generator_UserColumnName="DVT" type="xs:string" minOccurs="0" />
+              <xs:element name="SOLUONG" msprop:Generator_ColumnVarNameInTable="columnSOLUONG" msprop:Generator_ColumnPropNameInRow="SOLUONG" msprop:Generator_ColumnPropNameInTable="SOLUONGColumn" msprop:Generator_UserColumnName="SOLUONG" type="xs:string" minOccurs="0" />
+              <xs:element name="HOTEN" msprop:Generator_ColumnVarNameInTable="columnHOTEN" msprop:Generator_ColumnPropNameInRow="HOTEN" msprop:Generator_ColumnPropNameInTable="HOTENColumn" msprop:Generator_UserColumnName="HOTEN" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RPHOADON" />
+      <xs:field xpath="mstns:MAHOADON" />
+      <xs:field xpath="mstns:MABAN" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

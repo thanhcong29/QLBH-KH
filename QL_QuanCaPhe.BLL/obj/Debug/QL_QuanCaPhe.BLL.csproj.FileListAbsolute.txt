@@ -1,0 +1,680 @@
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\Source Code\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Documents\Zalo Received Files\KHOA_LUAN_TOT_NGHIEP\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\Form_QLQuanCaPhe\QL_QuanCaPhe_N\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\KhoaLuan\Form\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Desktop\New folder\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+E:\HK1 (2021-2022)\KLTN\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+C:\Users\Admin\Documents\Zalo Received Files\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\KhoaLuan_04_01_2022\QL_QuanCaPhe_N10\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\HK1 (2021-2022)\git\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\TaiLieu\KhoaLuan\QL_QuanCaPhe_N10T_FULL\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v19.2.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+D:\KhoaLuan\Form\113_NguyenTheHuu_V2\Code\quanlyquancaphe\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms-main\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll.config
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll.config
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BLL.pdb
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Drawing.v22.2.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.pdb
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.BO.dll.config
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.pdb
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\QL_QuanCaPhe.DAO.dll.config
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.AssemblyReference.cache
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CoreCompileInputs.cache
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.csproj.CopyComplete
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.dll
+E:\Công Đi Học\Đồ Án\Project_ThucTap&DoAn\KhoaLuan_QuanLyQuanCaPhe_WindowForms\QL_QuanCaPhe.BLL\obj\Debug\QL_QuanCaPhe.BLL.pdb
